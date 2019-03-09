@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/vertex_shader.vert</file>
+        <file>shaders/fragment_shader.frag</file>
+        <file>glyphs/glyphs</file>
+        <file>glyphs/STXINWEI</file>
+        <file>glyphs/info_items.glyph</file>
+    </qresource>
+</RCC>
